@@ -82,5 +82,20 @@
 1. **登录网址**：https://huggingface.co/spaces/mattewyao/guideline_adherence
 2. **账号密码**：点击`Sign in with username`
 <img width="3024" height="720" alt="image" src="https://github.com/user-attachments/assets/02859696-137e-4d6b-8e78-e0d96dcdf728" />
-3. 
+3. **点击hypertension_dataset**
+<img width="3022" height="908" alt="image" src="https://github.com/user-attachments/assets/78349f56-1dad-4a3a-b68b-4e6125232716" />
+
+### Step 2: 阅读患者信息与医患对话
+1. **阅读左侧信息**：仔细阅读【患者基本信息】、【问诊背景】、【临床历史】。
+2. **阅读对话**：在【医患交流对话原文】中定位医生的最终建议。
+3. 点击下册**Guideline**可调出标注指南和参考资料库。
+<img width="3024" height="1642" alt="image" src="https://github.com/user-attachments/assets/398bd273-18af-49e0-b3c1-f4f239a1c076" />
+
+### Step 3: 标注执行
+1. **选择标签**：
+* 首先回答 **"医生是否偏离指南 *"**。
+* 如果选择了 **"偏离但可接受"** 或 **"偏离且不可接受"**，您需要继续回答 **"偏离指南的维度"**。
+2. **提交**：确认无误后，点击右侧 **Submit**进入下一条。
+<img width="3024" height="1644" alt="image" src="https://github.com/user-attachments/assets/71457e79-9745-470e-a2d4-8590b6695210" />
+
 
