@@ -87,13 +87,14 @@
 1. **登录网址**：https://huggingface.co/spaces/mattewyao/guideline_adherence
 2. **账号密码**：点击`Sign in with username`
 <img width="3024" height="720" alt="image" src="https://github.com/user-attachments/assets/02859696-137e-4d6b-8e78-e0d96dcdf728" />
+
 3. **点击hypertension_dataset**
 <img width="3022" height="908" alt="image" src="https://github.com/user-attachments/assets/78349f56-1dad-4a3a-b68b-4e6125232716" />
 
 ### Step 2: 阅读患者信息与医患对话
-1. **阅读左侧信息**：仔细阅读【患者基本信息】、【问诊背景】、【临床历史】。
+1. **阅读患者基本信息**：仔细阅读【患者基本信息】、【问诊背景】、【临床历史】。
 2. **阅读对话**：在【医患交流对话原文】中定位医生的最终建议。
-3. 点击下册**Guideline**可调出标注指南和参考资料库。
+3. 点击下方**Guideline**可调出标注指南和参考资料库。
 <img width="3020" height="1646" alt="image" src="https://github.com/user-attachments/assets/749f703b-dea8-4c2f-8846-669a8d0ad269" />
 
 ### Step 3: 标注执行
