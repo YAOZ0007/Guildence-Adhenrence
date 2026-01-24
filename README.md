@@ -94,13 +94,14 @@
 1. **阅读左侧信息**：仔细阅读【患者基本信息】、【问诊背景】、【临床历史】。
 2. **阅读对话**：在【医患交流对话原文】中定位医生的最终建议。
 3. 点击下册**Guideline**可调出标注指南和参考资料库。
-<img width="3024" height="1642" alt="image" src="https://github.com/user-attachments/assets/398bd273-18af-49e0-b3c1-f4f239a1c076" />
+<img width="3020" height="1646" alt="image" src="https://github.com/user-attachments/assets/749f703b-dea8-4c2f-8846-669a8d0ad269" />
 
 ### Step 3: 标注执行
 1. **选择标签**：
-* 首先回答 **"医生是否偏离指南 *"**。
-* 如果选择了 **"偏离但可接受"** 或 **"偏离且不可接受"**，您需要继续回答 **"偏离指南的维度"**。
+* 首先回答 **"医生是否偏离指南"**。
+* 如果选择了 **"偏离指南"**，您需要继续回答 **"偏离指南的维度"** 和 **"该偏离行为是否构成临床风险?"**
 2. **提交**：确认无误后，点击右侧 **Submit**进入下一条。
-<img width="3024" height="1644" alt="image" src="https://github.com/user-attachments/assets/71457e79-9745-470e-a2d4-8590b6695210" />
+<img width="3024" height="1644" alt="image" src="https://github.com/user-attachments/assets/d7c4924f-e39f-4054-a221-12c27166615a" />
+
 
 
