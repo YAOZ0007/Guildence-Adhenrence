@@ -85,7 +85,7 @@
 
 ## 5. 平台操作流程
 ### Step 1: 登录与进入
-1. **登录网址**：https://huggingface.co/spaces/mattewyao/guideline_adherence
+1. **登录网址**：http://106.55.137.104:6900/
 2. **账号密码**：点击`Sign in with username`
 <img width="3024" height="720" alt="image" src="https://github.com/user-attachments/assets/02859696-137e-4d6b-8e78-e0d96dcdf728" />
 
